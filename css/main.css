@@ -1,0 +1,15 @@
+.parent{
+    padding: 25px;
+    background-color: skyblue;
+    display: flex;
+    gap: 30px;
+
+}
+.child{
+    border: 2px solid black;
+    background: red;
+    padding: 20px;
+    font-size: 25px;
+    margin: 10px 0;
+    
+}
